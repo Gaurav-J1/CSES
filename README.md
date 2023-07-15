@@ -1,3 +1,7 @@
 # CSES
 My CSES (Java) solutions.
-Sorry for not solving more && not sorting it according to different sections( its really time consuming ).
+
+FastReader is a Class for faster I/O... , can replace the following line : 
+-  FastReader scn = new FastReader();
+ with
+-  Scanner scn = new Scanner(System.in);
